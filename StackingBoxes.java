@@ -11,8 +11,8 @@ import java.util.Scanner;
 /**
  *
  * @author thomas
+ * UNSOLVED
  * https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=39
- * NÃO RESOLVIDO
  */
 public class StackingBoxes {
     public static void main(String[] args) {
